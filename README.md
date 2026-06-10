@@ -1,7 +1,7 @@
 # CW Pharmacy PDF Saver
 
 > ⚠️ **The official source code, automated releases, and issues for this module are hosted at:**
-> 👉 **[https://github.com/myst-25/CW-pharam](https://github.com/myst-25/CW-pharam)**
+> 👉 **[https://github.com/myst-25/CW-pharma](https://github.com/myst-25/CW-pharma)**
 
 > *"Knowledge must be free, accessible, and shareable for all."*
 
